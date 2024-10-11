@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Flutter**.
 
-- 👨‍💻 All of my projects are available at **[My Repository]()**.
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AbdelhaqAdel?tab=repositories)**.
 
 <br>
 <div align="center">
@@ -33,12 +33,12 @@
 ## 📊 My Stats:
 
 <p align="center">
-    <a href="https://github.com/AmmarAgeeza/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AmmarAgeeza's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmmarAgeeza&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/AbdelhaqAdel/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AbdelhaqAdel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelhaqAdel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="AmmarAgeeza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmmarAgeeza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="AmmarAgeeza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAgeeza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/AbdelhaqAdel/github-readme-stats"><img alt="AdelhaqAdel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbdelhaqAdel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/AbdelhaqAdel/github-readme-stats"><img alt="AbdelhaqAdel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhaqAdel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br>
 <div align="center">
@@ -55,14 +55,14 @@
   <a href="mailto:ammarfathy516@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-        <a href="https://mostaql.com/u/ammarageeza/portfolio">
+        <a href="https://mostaql.com/u/AbdelhaqAdel/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
   </a>
-    <a href="https://youtube.com/@ammarageeza91?si=bHNizIHn9dIL3jX7">
+    <a href="https://youtube.com/@AbdelhaqAdel91?si=bHNizIHn9dIL3jX7">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
      </a>
-     <a href="https://t.me/ammarageeza">
+     <a href="https://t.me/AbdelhaqAdel">
     <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
@@ -75,10 +75,10 @@
 
 ## 💜 Views and Followers:
 
-<a href="https://github.com/AmmarAgeeza/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AmmarAgeeza">
+<a href="https://github.com/AbdelhaqAdel/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=AbdelhaqAdel">
 </a>
-<a href="https://github.com/AmmarAgeeza?tab=followers"><img src="https://img.shields.io/github/followers/AmmarAgeeza?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/AbdelhaqAdel?tab=followers"><img src="https://img.shields.io/github/followers/AbdelhaqAdel?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
 </h3>
