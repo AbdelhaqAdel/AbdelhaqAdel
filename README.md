@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdelhaq+Adel!+😎;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdelhaq+Adel!![Uploading StandingOvationGIF.gif…]()
+;" />
 </div>
 
 <br>
@@ -8,7 +9,7 @@
 
 - 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** | **Flutter** .
 
-- 🌱 I’m currently learning **Advanced Flutter**.
+- 🌱 I’m currently focus on **Advanced Flutter**.
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AbdelhaqAdel?tab=repositories)**.
 
@@ -21,7 +22,7 @@
 ## 🚀 Languages and Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python" />
-    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman,visualstudio" /><br>
 </div>
 
 <br>
