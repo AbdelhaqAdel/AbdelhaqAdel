@@ -73,11 +73,6 @@
 </div>
 <br>
 
-## 💜 Views and Followers:
-
-<a href="https://github.com/AbdelhaqAdel/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AbdelhaqAdel">
-</a>
 <a href="https://github.com/AbdelhaqAdel?tab=followers"><img src="https://img.shields.io/github/followers/AbdelhaqAdel?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
