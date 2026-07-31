@@ -45,7 +45,7 @@
     <a href="https://www.linkedin.com/in/abdelhaq-adel-3721a5273/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-  <a href="mailto:elalfyabdo139@gmail.com">
+  <a href="mailto:abdelhaqadel9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
